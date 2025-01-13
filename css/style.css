@@ -1,0 +1,107 @@
+body{
+    margin-left: 0px;
+}
+
+
+header{
+    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 0px;
+    
+}
+
+.menu{
+    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style-type: none;
+    gap: 20px;
+    padding-top: 20px;
+    padding-right: 35px;
+    
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+
+.donate{
+
+    width: 85px;
+    height: 20px;
+    padding: 15px;
+    border-radius: 360px;
+    background-color: rgb(184,8,74);
+    color: rgb(247, 249, 250);
+
+}
+
+.search{
+   
+  
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0);
+    height: 70px;
+    width: 100px;
+   
+
+
+}
+
+main{
+    background-image: url(../img/bgpics.webp);
+    height: 550px;
+   
+    margin-top: 0px;
+
+}
+.give{
+    margin-left: 250px;
+    margin-top: 100px;
+
+}
+
+h1{
+   
+    height: 22%;
+    width: 25%;
+    margin-left: 250px;
+    font-weight: 700;
+    font-size: 40px;
+    font-style: italic;
+    color: aliceblue;
+    line-height: 55px;
+}
+
+p{
+  
+    margin-left: 220px;
+    margin-top: 60px;
+    font-size: 31px;
+    height: 10%;
+    width: 35%;
+    color: aliceblue;
+    font-style:italic;
+    font-weight: 500;
+
+}
+
+.anji{
+    margin-left: 300px;
+    margin-top: 15px;
+    background-color: rgba(95, 5, 58, 0.596);
+    border-radius: 25px;
+    height: 30px;
+    width: 85px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
